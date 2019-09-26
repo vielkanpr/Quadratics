@@ -8,7 +8,9 @@ public class Main {
         double a,b,c,discriminant,axisOfSymmetry,x,y;
         String parabolaFacing;
         //todo initialize manually
-
+        a=5;
+        b=3;
+        c=1;
         //todo calculations
 
         //todo print results
